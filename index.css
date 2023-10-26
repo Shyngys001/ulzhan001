@@ -1,7 +1,7 @@
 body {
     background-color: #f1f1f1;
     font-family: Arial, sans-serif;
-    background-image: url('https://avatars.mds.yandex.net/i?id=935ab1ff89b91020258dd8501177747ade7beec3-9268591-images-thumbs&n=13');
+    background-image: url('https://avatars.mds.yandex.net/i?id=b21801a943d764515c675469bf8804baaa607094-10850090-images-thumbs&n=13');
     background-repeat: no-repeat;
     
     background-size: cover;
@@ -9,6 +9,11 @@ body {
     display: flex;
     align-items: center;
     height: 100vh;
+}
+
+h1 {
+    color: blueviolet;
+    line-height: 50px;
 }
 
 
