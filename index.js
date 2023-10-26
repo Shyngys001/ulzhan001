@@ -33,14 +33,3 @@ input.addEventListener('input', () => {
   });
 });
 
-
-const checkbox = document.getElementById('myCheckbox');
-
-checkbox.addEventListener('change', function() {
-  if(this.checked) {
-    window.location.href = 'sec.html';
-  }
-  else{
-    window.location.href = 'erezhe.html';
-  }
-});
