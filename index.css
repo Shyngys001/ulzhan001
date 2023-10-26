@@ -6,7 +6,11 @@ body {
     
     background-size: cover;
     font-family: "Sofia", sans-serif;
+    display: flex;
+    align-items: center;
+    height: 100vh;
 }
+
 
 .container {
     width: 70%;
@@ -15,8 +19,10 @@ body {
     background-color: transparent;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
     text-align: center;
-    background-color: rgba(191, 186, 206, 0.387);
+    background-color: rgba(24, 23, 26, 0.885);
     border-radius: 25px;
+    align-items: center;
+    margin-top: 10%;
 }
 
 .font-effect-shadow-multiple {
@@ -174,3 +180,5 @@ body {
   .slider.round:before {
     border-radius: 50%;
   }
+
+  
