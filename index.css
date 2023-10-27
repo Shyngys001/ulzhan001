@@ -1,7 +1,7 @@
 body {
     background-color: #f1f1f1;
     font-family: Arial, sans-serif;
-    background-image: url('https://bogatyr.club/uploads/posts/2023-03/thumbs/1679195976_bogatyr-club-p-fon-dlya-slaida-s-kazakhskim-ornamentom-fo-2.jpg');
+    background-image: url('https://allart.kz/wp-content/uploads/2019/05/snimok-4.png');
     background-repeat: no-repeat;
     
     background-size: cover;
@@ -12,10 +12,12 @@ body {
 }
 
 h1 {
-    color: rgb(13, 0, 255);
-    line-height: 50px;
+    color: rgb(65, 62, 125);
+    line-height: 150px;
+    font-size: 50px;
+    text-align: center;
     text-transform: uppercase;
-    width: 20%;
+    width: 100%;
     margin: 0 auto;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
