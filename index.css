@@ -12,8 +12,12 @@ body {
 }
 
 h1 {
-    color: blueviolet;
+    color: rgb(13, 0, 255);
     line-height: 50px;
+    text-transform: uppercase;
+    width: 20%;
+    margin: 0 auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -24,7 +28,7 @@ h1 {
     background-color: transparent;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
     text-align: center;
-    background-color: rgba(24, 23, 26, 0.885);
+    background-color: rgba(0, 0, 0, 0.885);
     border-radius: 25px;
     align-items: center;
     margin-top: 10%;
